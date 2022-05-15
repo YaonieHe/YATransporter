@@ -1,0 +1,22 @@
+{
+  "name": "YATransporter",
+  "version": "0.1.0",
+  "summary": "A short description of YATransporter.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/h/YATransporter",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "h": "2505598272@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/h/YATransporter.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YATransporter/Classes/**/*"
+}

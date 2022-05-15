@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'YATransporter_Example' do
+  pod 'YATransporter', :path => '../'
+
+  target 'YATransporter_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
