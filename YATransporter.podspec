@@ -21,14 +21,14 @@ Pod::Spec.new do |s|
 TODO: Add long description of the pod here.
                        DESC
 
-  s.homepage         = 'https://github.com/h/YATransporter'
+  s.homepage         = 'https://github.com/YaonieHe/YATransporter'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'h' => '2505598272@qq.com' }
-  s.source           = { :git => 'https://github.com/h/YATransporter.git', :tag => s.version.to_s }
+  s.author           = { 'YaonieHe' => '2505598272@qq.com' }
+  s.source           = { :git => 'https://github.com/YaonieHe/YATransporter.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '9.0'
+  s.ios.deployment_target = '11.0'
 
   s.source_files = 'YATransporter/Classes/**/*'
   
